@@ -4,9 +4,14 @@
 </div>
 
 <br>
-Bem-vindo(a) a este repositório! Aqui você encontrará um compilado de exercícios em Python 🐍, juntamente com as minhas soluções. Minha meta é compartilhar 100 exercícios com suas respostas; por enquanto, já concluí 35. 
+Bem-vindo(a) a este repositório! 🥏
 
-Vamos juntos nessa jornada de aprendizado!🚀
+Aqui você encontrará um compilado de exercícios em Python 🐍, organizados em diferentes níveis de dificuldade. Conforme você avança pelos desafios, a complexidade aumenta, ajudando a aprimorar tanto sua lógica de programação quanto suas habilidades na linguagem.
+Minha meta é compartilhar 100 exercícios com suas respectivas soluções; até agora, já concluí 35. 🚀 
+
+A ideia é que você tente resolver os exercícios sozinho(a), explorando sua criatividade e testando suas habilidades. Mas, se ficar travado(a), não se preocupe! Todas as soluções estão disponíveis para consulta. Além disso, incluí uma playlist com a resolução explicada desses códigos para você acompanhar e aprender ainda mais. 🎥
+
+Vamos juntos nessa jornada de aprendizado! ✨
 
 <br>
 
