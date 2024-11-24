@@ -1,15 +1,14 @@
 <div align="center">
   
-# Desafios em Python
+# Desafios em Python  <img width="25" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python">
 </div>
-<br>
 
+<br>
 📌 Este repositório consiste em um compilado de exercícios e suas soluções em Python.
-
 <br>
 
-----  
-  ### 📥 Desafios de código
+
+### 📥 Desafios de código
 
 📂 Os desafios estão organizados por pasta contendo a descrição e o código.
 
@@ -50,11 +49,6 @@
 * Desafio 35: []()
 
 <br>
-
----- 
-## 💻 Tecnologias utilizadas
-<img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python">
-
 <br>
 
 <p align="left">
