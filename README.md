@@ -83,7 +83,7 @@ Vamos juntos nessa jornada de aprendizado!🚀
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex033.py)
 * Desafio 34: Aumentos múltiplos - Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Considere: para salários superiores a R$1.250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex034.py)
-* Desafio 35: Analisando triângulo v1.0 - Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo. Exemplo: 3 retas de comprimento 7, 4 e 5 formam um triângulo. Principio matemático utilizado: o comprimento de um lado de um triângulo é menor que a soma dos outros dois lados.
+* Desafio 35: Analisando triângulo - Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo. Exemplo: 3 retas de comprimento 7, 4 e 5 formam um triângulo. Principio matemático utilizado: o comprimento de um lado de um triângulo é menor que a soma dos outros dois lados.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex035.py)
 
 <br>
