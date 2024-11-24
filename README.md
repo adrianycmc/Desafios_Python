@@ -23,7 +23,7 @@ Vamos juntos nessa jornada de aprendizado! ✨
 * **Desafio 1:** Hello World - Crie um programa que escreva "Olá, Mundo!" na tela.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex001.py)
    
-* **Desafio 2:** Respondendo ao usuário- Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
+* **Desafio 2:** Respondendo ao usuário - Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex002.py)
 * **Desafio 3:** Somando dois números - Crie um programa que leia dois números e mostre a soma entre eles.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex003.py)
