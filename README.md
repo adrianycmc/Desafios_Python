@@ -7,7 +7,7 @@
 Bem-vindo(a) a este repositório! Aqui você encontrará um compilado de exercícios em Python 🐍, juntamente com as minhas soluções. Minha meta é compartilhar 100 exercícios com suas respostas; por enquanto, já concluí 35. 
 
 Vamos juntos nessa jornada de aprendizado!🚀
-**
+
 <br>
 
 
