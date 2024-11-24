@@ -4,7 +4,10 @@
 </div>
 
 <br>
-📌 Este repositório consiste em um compilado de exercícios e suas soluções em Python.
+Bem-vindo(a) a este repositório! Aqui você encontrará um compilado de exercícios em Python 🐍, juntamente com as minhas soluções. Minha meta é compartilhar 100 exercícios com suas respostas; por enquanto, já concluí 35. 
+
+Vamos juntos nessa jornada de aprendizado!🚀
+
 <br>
 
 
@@ -12,43 +15,89 @@
 
 📂 Os desafios estão organizados por pasta contendo a descrição e o código.
 
-* Desafio 1: [Hello World]()
-* Desafio 2: [Respondendo ao usuário]()
-* Desafio 3: [Somando dois números]()
-* Desafio 4: [Dissecando uma variável]()
-* Desafio 5: [Antecessor e sucessores]()
-* Desafio 6: [Dobro, triplo, raiz quadrada]()
-* Desafio 7: [Média aritmética]()
-* Desafio 8: [Conversor de medidas]()
-* Desafio 9: [Tabuada]()
-* Desafio 10: [Conversor de moedas]()
-* Desafio 11: [Pintando a parede]()
-* Desafio 12: [Calculando descontos]()
-* Desafio 13: [Reajuste salarial]()
-* Desafio 14: [Conversor de temperatura]()
-* Desafio 15: [Aluguel de carros]()
-* Desafio 16: [Quebrando um número]()
-* Desafio 17: [Catetos e Hipotenusa]()
-* Desafio 18: [Seno, Cosseno, Tangente]()
-* Desafio 19: [Sorteando um item na lista]()
-* Desafio 20: [Sorteando uma ordem na lista]()
-* Desafio 21: [Tocando um MP3]()
+* Desafio 1: Hello World
+  - [Solução]()
+* Desafio 2: Respondendo ao usuário
+  - [Solução]()
+* Desafio 3: Somando dois números
+  - [Solução]()
+* Desafio 4: Dissecando uma variável
+  - [Solução]()
+* Desafio 5: Antecessor e sucessores
+  - [Solução]()
+* Desafio 6: Dobro, triplo, raiz quadrada
+  - [Solução]()
+* Desafio 7: Média aritmética
+  - [Solução]()
+* Desafio 8: Conversor de medidas
+  - [Solução]()
+* Desafio 9: Tabuada
+  - [Solução]()
+* Desafio 10: Conversor de moedas
+  - [Solução]()
+* Desafio 11: Pintando a parede
+  - [Solução]()
+* Desafio 12: Calculando descontos
+  - [Solução]()
+* Desafio 13: Reajuste salarial
+  - [Solução]()
+* Desafio 14: Conversor de temperatura
+  - [Solução]()
+* Desafio 15: Aluguel de carros
+  - [Solução]()
+* Desafio 16: Quebrando um número
+  - [Solução]()
+* Desafio 17: Catetos e Hipotenusa
+  - [Solução]()
+* Desafio 18: Seno, Cosseno, Tangente
+  - [Solução]()
+* Desafio 19: Sorteando um item na lista
+  - [Solução]()
+* Desafio 20: Sorteando uma ordem na lista
+  - [Solução]()
+* Desafio 21: Tocando um MP3
+  - [Solução]()
 * Desafio 22: []()
+  - [Solução]()
 * Desafio 23: []()
+  - [Solução]()
 * Desafio 24: []()
+  - [Solução]()
 * Desafio 25: []()
+  - [Solução]()
 * Desafio 26: []()
+  - [Solução]()
 * Desafio 27: []()
+  - [Solução]()
 * Desafio 28: []()
+  - [Solução]()
 * Desafio 29: []()
+  - [Solução]()
 * Desafio 30: []()
+  - [Solução]()
 * Desafio 31: []()
+  - [Solução]()
 * Desafio 32: []()
+  - [Solução]()
 * Desafio 33: []()
+  - [Solução]()
 * Desafio 34: []()
+  - [Solução]()
 * Desafio 35: []()
+  - [Solução]()
 
 <br>
+<br>
+
+#### 🚧 Repositório em construção.
+✅ 35 de 100 exercícios concluídos.
+
+<br>
+
+#### 💡 Playlist com a resolução de todos os exercícios.
+
+👉 [Exercícios de Python no youtube](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-)
+
 <br>
 
 <p align="left">
