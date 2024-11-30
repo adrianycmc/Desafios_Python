@@ -91,12 +91,34 @@ Vamos juntos nessa jornada de aprendizado! ✨
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex034.py)
 * **Desafio 35:** Analisando triângulo - Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo. Exemplo: 3 retas de comprimento 7, 4 e 5 formam um triângulo. Principio matemático utilizado: o comprimento de um lado de um triângulo é menor que a soma dos outros dois lados.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex035.py)
+* **Desafio 36:** Aprovando Empréstimo - Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar. Calcue o valor da prestação mensal, sabendo que ela não pode exceder 30% do salário ou então o empréstimo será negado.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex036.py)
+* **Desafio 37:** Conversor de Bases Numéricas - Escreva um programa que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: 1 para binário, 2 para octal e 3 para hexadecimal.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex037.py)
+* **Desafio 38:**  Comparando Números - Escreva um programa que leia dois números inteiros e compare-os. Mostrando na tela uma mensagem: - O primeiro valor é maior. - O segundo valor é maior. - Não existe valor maior, os dois são iguais.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex038.py)
+* **Desafio 39:** Alistamento Militar - Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com a sua idade: - Se ele ainda vai se alistar ao serviço militar. - Se é a hora de se alistar. - Se já passou do tempo do alistamento.
+Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex039.py)
+* **Desafio 40:** Aquele clássico da Média - Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida: - Média abaixo de 5.0: REPROVADO. - Média entre 5.0 e 6.9: RECUPERAÇÃO.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex040.py)
+* **Desafio 41:** Classificando Atletas - A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade: Até 9 anos: MIRIM. Até 14 anos: INFANTIL. Até 19 anos: JÚNIOR. Até 20 anos: SÊNIOR. Acima: MASTER.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex041.py)
+* **Desafio 42:** Analisando Triângulos - Refaça o Desafio 035 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:- Equilátero: todos os lados iguais.- Isósceles: dois lados iguais.- Escaleno: todos os lados diferentes.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex042.py)
+* **Desafio 43:** Índice de Massa Corporal - Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu Índice de Massa Corporal (IMC) e mostre seu status, de acordo com a tabela abaixo: - Abaixo de 18.5: Abaixo do Peso. - Entre 18.5 e 25: Peso Ideal. - 25 até 30: Sobrepeso. - 30 até 40: Obesidade. - Acima de 40: Obesidade Mórbida.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex043.py)
+* **Desafio 44:** Gerenciador de Pagamentos - Elabore um programa que calcule o valor a ser pago por um produto, considerando o seu preço normal e condição de pagamento: - À vista dinheiro/cheque: 10% de desconto. - À vista no cartão: 5% de desconto. - Em até 2x no cartão: preço normal. - 3x ou mais no cartão: 20% de juros no valor total.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex044.py)
+* **Desafio 45:** GAME: Pedra, Papel e Tesoura. Crie um programa que faça o computador jogar Jokenpô com você.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex045.py)
+
 
 <br>
 <br>
 
 #### 🚧 Repositório em construção.
-✅ 35 de 100 exercícios concluídos.
+✅ 45 de 100 exercícios concluídos.
 
 <br>
 
