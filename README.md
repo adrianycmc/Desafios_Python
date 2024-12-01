@@ -112,6 +112,25 @@ Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex044.py)
 * **Desafio 45:** GAME: Pedra, Papel e Tesoura. Crie um programa que faça o computador jogar Jokenpô com você.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex045.py)
+* **Desafio 46:** Contagem Regressiva - Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles. Usar uma lib para pausa.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex046.py)
+* **Desafio 47:** Contagem em pares - Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex047.py)
+* **Desafio 48:** Soma de ímpares múltiplos de três - Faça um programa que calcule a soma entre todos os números ímpares que são múltiplos de três e que se encontram no intervalo de 1 até 500. Saber se é divisível por 3 é o mesmo que saber se o resto da divisão por 3 é zero.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex048.py)
+* **Desafio 49:** Tabuada v.2.0 - Refaça o Desafio 009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex049.py)
+* **Desafio 50:** Soma de pares - Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex050.py)
+* **Desafio 51:** Progressão aritmética - Desenvolva um programa que leia o primeiro termo e a razão de uma PA. No final, mostre os 10 primeiros termos dessa progressão. Exercício que pula de número em número, sem repetir.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex051.py)
+* **Desafio 52:** Números primos - Faça um programa que leia um número inteiro e diga se ele é ou não um número primo. O número primo é aquele que é divisível apenas por 1 e por ele mesmo.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex052.py)
+* **Desafio 53:** Detector de Palíndromo - Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços. Exemplos de palíndromos: APOS A SOPA, A SACADA DA CASA, A TORRE DA DERROTA, O LOBO AMA O BOLO, ANOTARAM A DATA DA MARATONA. Tirar os espaços entre as palavras é o mesmo que juntar as palavras.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex053.py)
+* **Desafio 54:** Grupo de Maioridade - Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores. Considerar a maioridade a partir de 21 anos.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex054.py)
+
 
 
 <br>
