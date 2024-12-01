@@ -37,7 +37,7 @@ Vamos juntos nessa jornada de aprendizado! ✨
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex007.py)
 * **Desafio 8:** Conversor de medidas - Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex008.py)
-* **Desafio 9: Tabuada** - Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
+* **Desafio 9:** Tabuada - Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex009.py)
 * **Desafio 10:** Conversor de moedas - Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar. Considere US$1,00 = R$3,27.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex010.py)
