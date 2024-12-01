@@ -137,7 +137,7 @@ Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
 <br>
 
 #### 🚧 Repositório em construção.
-✅ 45 de 100 exercícios concluídos.
+✅ 54 de 100 exercícios concluídos.
 
 <br>
 
