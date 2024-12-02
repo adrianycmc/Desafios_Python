@@ -130,7 +130,10 @@ Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex053.py)
 * **Desafio 54:** Grupo de Maioridade - Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores. Considerar a maioridade a partir de 21 anos.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex054.py)
-
+* **Desafio 55:** Maior e menor da sequência - Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor peso lidos.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex055.py)
+* **Desafio 56:** Analisador completo - Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostre: a média de idade do grupo, qual é o nome do homem mais velho e quantas mulheres têm menos de 20 anos.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex056.py)
 
 
 <br>
