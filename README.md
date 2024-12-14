@@ -133,14 +133,46 @@ Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
 * **Desafio 55:** Maior e menor da sequência - Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor peso lidos.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex055.py)
 * **Desafio 56:** Analisador completo - Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostre: a média de idade do grupo, qual é o nome do homem mais velho e quantas mulheres têm menos de 20 anos.
-  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex056.py)
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex056.py)    
+* **Desafio 57:** Validação de dados - Faça um programa que leia o sexo de uma pessoa, mas só aceite os valores 'M' ou 'F'. Caso esteja errado, peça a digitação novamente até ter um valor correto.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex057.py)
+* **Desafio 58:** Jogo da adivinhação v2.0 - Melhore o jogo do desafio 028 onde o computador vai "pensar" em um número entre 0 e 10. Só que agora o jogador vai tentar adivinhar até acertar, mostrando no final quantos palpites foram necessários para vencer.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex058.py)
+* **Desafio 59:** Criando um menu de opções - Crie um programa que leia dois valores e mostre um menu na tela: [ 1 ] somar, [ 2 ] multiplicar, [ 3 ] maior, [ 4 ] novos números, [ 5 ] sair do programa. Seu programa deverá realizar a operação solicitada em cada caso.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex059.py)
+* **Desafio 60:** Cálculo do Fatorial - Faça um programa que leia um número qualquer e mostre o seu fatorial. Exemplo: 5! = 5 x 4 x 3 x 2 x 1 = 120
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex060.py)
+* **Desafio 61:** Progressão Aritmética v2.0 - Refaça o Desafio 051, lendo o primeiro termo e a razão de uma PA, mostrando os 10 primeiros termos da progressão usando a estrutura while.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex061.py)
+* **Desafio 62:** Super Progressão Aritmética v3.0 - Melhore o Desafio 061, perguntando para o usuário se ele quer mostrar mais alguns termos. O programa encerrará quando ele disser que quer mostrar 0 termos.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex062.py)
+* **Desafio 63:** Sequência de Fibonacci v1.0 - Escreva um programa que leia um número n inteiro qualquer e mostre na tela os n primeiros elementos de uma Sequência de Fibonacci. Exemplo: 0 -> 1 -> 1 -> 2 -> 3 -> 5 -> 8
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex063.py)
+* **Desafio 64:** Tratando vários valores v1.0 - Crie um programa que leia vários números inteiros pelo teclado. O programa só vai parar quando o usuário digitar o valor 999, que é a condição de parada. No final, mostre quantos números foram digitados e qual foi a soma entre eles (desconsiderando o flag).
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex064.py)
+* **Desafio 65:** Maior e menor valores - Crie um programa que leia vários números inteiros pelo teclado. No final da execução, mostre a média entre todos os valores e qual foi o maior e o menor valores lidos. O programa deve perguntar ao usuário se ele quer ou não continuar a digitar valores.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex065.py)
+* **Desafio 66:** Vários números com flag - Crie um programa que leia vários números inteiros pelo teclado. O programa só vai parar quando o usuário digitar o valor 999, que é a condição de parada. No final, mostre quantos números foram digitados e qual foi a soma entre eles (desconsiderando o flag).
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex066.py)
+* **Desafio 67:** Tabuada v3.0 - Faça um programa que mostre a tabuada de vários números, um de cada vez, para cada valor digitado pelo usuário. O programa será interrompido quando o número solicitado for negativo.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex067.py)
+* **Desafio 68:** Jogo do Par ou Ímpar - Faça um programa que jogue par ou ímpar com o computador. O jogo só será interrompido quando o jogador perder, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex068.py)
+* **Desafio 69:** Análise de dados do grupo - Crie um programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada, o programa deverá perguntar se o usuário quer ou não continuar. No final, mostre: A) Quantas pessoas tem mais de 18 anos. B) Quantos homens foram cadastrados. C) Quantas mulheres que tem menos de 20 anos.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex069.py)
+* **Desafio 70:** Estatísticas em produtos - Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar. No final, mostre: A) Qual é o total gasto na compra. B) Quantos produtos custam mais de R$ 1000. C) Qual é o nome do produto mais barato.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex070.py)
+* **Desafio 71:** Simulador de Caixa Eletrônico - Crie um programa que simule o funcionamento de um caixa eletrônico. No inicio, pergunte ao usuário qual valor a ser sacado (número inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues. OBS: Considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex071.py)
+
+
 
 
 <br>
 <br>
 
 #### 🚧 Repositório em construção.
-✅ 56 de 100 exercícios concluídos.
+✅ 71 de 100 exercícios concluídos.
 
 <br>
 
