@@ -191,7 +191,7 @@ Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
 * **Desafio 75:** Análise de dados em uma Tupla - Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla. No final, mostre: A) Quantas vezes apareceu o valor 9. B) Em que posição foi digitado o primeiro valor 3. C) Quais foram os números pares. Se buscar o valor que não existe tem que dar uma mensagem de erro.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex075.py)
  * **Desafio 76:** Lista de Preços com Tupla - Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços, na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular. Uma tupla tem o nome e o preço. O programa deve mostrar o nome e o preço de cada produto, alinhados à direita, com o preço com duas casas decimais e alinhado à esquerda.
-  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex076.py)
+    - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex076.py)
 * **Desafio 77:** Contando vogais em Tupla - Crie um programa que tenha uma tupla com várias palavras (não usar acentos). Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex077.py)
 
