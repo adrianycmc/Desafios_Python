@@ -7,7 +7,7 @@
 Bem-vindo(a) a este repositório! 🥏
 
 Aqui você encontrará um compilado de exercícios em Python 🐍, organizados em diferentes níveis de dificuldade. Conforme você avança pelos desafios, a complexidade aumenta, ajudando a aprimorar tanto sua lógica de programação quanto suas habilidades na linguagem.
-Minha meta é compartilhar 100 exercícios com suas respectivas soluções; até agora, já concluí 71. 🚀 
+Minha meta é compartilhar 100 exercícios com suas respectivas soluções; até agora, já concluí 77. 🚀 
 
 A ideia é que você tente resolver os exercícios sozinho(a), explorando sua criatividade e testando suas habilidades. Mas, se ficar travado(a), não se preocupe! Todas as soluções estão disponíveis para consulta. Além disso, incluí uma playlist com a resolução explicada desses códigos para você acompanhar e aprender ainda mais. 🎥
 
@@ -20,11 +20,15 @@ Vamos juntos nessa jornada de aprendizado! ✨
 
 📂 Os desafios estão organizados por pasta contendo a descrição e o código.
 
+### Primeiros passos:
+
 * **Desafio 1:** Hello World - Crie um programa que escreva "Olá, Mundo!" na tela.
-  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex001.py)
-   
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex001.py)  
 * **Desafio 2:** Respondendo ao usuário - Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex002.py)
+    
+### Tratando dados e fazendo contas:
+
 * **Desafio 3:** Somando dois números - Crie um programa que leia dois números e mostre a soma entre eles.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex003.py)
 * **Desafio 4:** Dissecando uma variável - Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
@@ -51,6 +55,9 @@ Vamos juntos nessa jornada de aprendizado! ✨
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex014.py)
 * **Desafio 15:** Aluguel de carros - Escreva um programa que pergunte a quantidade de km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por km rodado.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex015.py)
+ 
+### Usando módulos:
+
 * **Desafio 16:** Quebrando um número - Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção inteira. Ex: Digite um número: 6.127. O número 6.127 tem a parte inteira 6.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex016.py)
 * **Desafio 17:** Catetos e Hipotenusa - Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre o comprimento da hipotenusa.
@@ -75,6 +82,9 @@ Vamos juntos nessa jornada de aprendizado! ✨
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex026.py)
 * **Desafio 27:** Primeiro e último nome de uma pessoa - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente. Exemplo: Ana Maria de Souza, primeiro nome = Ana e último nome = Souza.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex027.py)
+ 
+### Condições if, elif e else:
+
 * **Desafio 28:** Jogo da adivinhação - Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex028.py)
 * **Desafio 29:** Radar eletrônico - Escreva um programa que leia a velocidade de um carro. Considere: se ele ultrapassar 80 km/h, mostre uma mensagem dizendo que ele foi multado a multa vai custar R$7,00 por cada km acima do limite.
@@ -112,6 +122,9 @@ Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex044.py)
 * **Desafio 45:** GAME: Pedra, Papel e Tesoura. Crie um programa que faça o computador jogar Jokenpô com você.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex045.py)
+ 
+### Laços de repetição for e while:
+
 * **Desafio 46:** Contagem Regressiva - Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles. Usar uma lib para pausa.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex046.py)
 * **Desafio 47:** Contagem em pares - Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.
@@ -164,6 +177,21 @@ Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex070.py)
 * **Desafio 71:** Simulador de Caixa Eletrônico - Crie um programa que simule o funcionamento de um caixa eletrônico. No inicio, pergunte ao usuário qual valor a ser sacado (número inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues. OBS: Considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex071.py)
+ 
+### Tuplas:
+
+* **Desafio 72:** Número por extenso - Crie um programa que tenha uma tupla totalmente preenchida com uma contagem por extenso, de zero até vinte. Se digitar outro número, o programa deverá mostrar uma mensagem de erro. 
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex072.py)
+* **Desafio 73:** Tuplas com Times de Futebol - Crie uma tupla preenchida com os 20 primeiros colocados da Tabela do Campeonato Brasileiro de Futebol, na ordem de colocação. Depois mostre: A) Apenas os 5 primeiros colocados. B) Os últimos 4 colocados da tabela. C) Uma lista com os times em ordem alfabética. D) A posição do time da Chapecoense.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex073.py)
+* **Desafio 74:** Maior e menor valores em Tupla - Crie um programa que vai gerar cinco números aleatórios e colocar em uma tupla. Depois disso, mostre a listagem de números gerados e também indique o menor e o maior valor que estão na tupla.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex074.py)
+* **Desafio 75:** Análise de dados em uma Tupla - Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla. No final, mostre: A) Quantas vezes apareceu o valor 9. B) Em que posição foi digitado o primeiro valor 3. C) Quais foram os números pares. Se buscar o valor que não existe tem que dar uma mensagem de erro.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex075.py)
+ * **Desafio 76:** Lista de Preços com Tupla - Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços, na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular. Uma tupla tem o nome e o preço. O programa deve mostrar o nome e o preço de cada produto, alinhados à direita, com o preço com duas casas decimais e alinhado à esquerda.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex076.py)
+* **Desafio 77:** Contando vogais em Tupla - Crie um programa que tenha uma tupla com várias palavras (não usar acentos). Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex077.py)
 
 
 
@@ -172,7 +200,7 @@ Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
 <br>
 
 #### 🚧 Repositório em construção.
-✅ 71 de 100 exercícios concluídos.
+✅ 77 de 100 exercícios concluídos.
 
 <br>
 
