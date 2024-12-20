@@ -20,6 +20,8 @@ Vamos juntos nessa jornada de aprendizado! ✨
 
 📂 Os desafios estão organizados por pasta contendo a descrição e o código.
 
+<br>
+
 ### Primeiros passos:
 
 * **Desafio 1:** Hello World - Crie um programa que escreva "Olá, Mundo!" na tela.
