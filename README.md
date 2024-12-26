@@ -194,7 +194,21 @@ Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
     - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex076.py)
 * **Desafio 77:** Contando vogais em Tupla - Crie um programa que tenha uma tupla com várias palavras (não usar acentos). Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex077.py)
+ 
+### Listas:
 
+* **Desafio 78:** Maior e Menor valores na Lista - Faça um programa que leia 5 valores numéricos e guarde-os em uma lista. No final, mostre qual foi o maior e o menor valor digitado e as suas respectivas posições na lista.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex078.py)
+* **Desafio 79:** Valores únicos em uma Lista - Crie um programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista. Caso o número já exista lá dentro, ele não será adicionado. No final, serão exibidos todos os valores únicos digitados, em ordem crescente.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex079.py)
+* **Desafio 80:** Lista ordenada sem repetições - Crie um programa onde o usuário possa digitar cinco valores numéricos e cadastre-os em uma lista, já na posição correta de inserção (sem usar o sort()). No final, mostre a lista ordenada na tela.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex080.py)
+* **Desafio 81:** Extraindo dados de uma Lista - Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, mostre: A) Quantos números foram digitados. B) A lista de valores, ordenada de forma decrescente. C) Se o valor 5 foi digitado e está ou não na lista.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex081.py)
+* **Desafio 82:** Dividindo valores em várias listas - Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores ímpares digitados, respectivamente. Ao final, mostre o conteúdo das três listas geradas. Primeiro loop analisa os valores e depois insere nas listas respectivas.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex082.py)
+* **Desafio 83:** Validando expressões matemáticas - Crie um programa onde o usuário digite uma expressão qualquer que use parênteses. Seu aplicativo deverá analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex083.py)
 
 
 
