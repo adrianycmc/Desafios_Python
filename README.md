@@ -209,6 +209,18 @@ Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex082.py)
 * **Desafio 83:** Validando expressões matemáticas - Crie um programa onde o usuário digite uma expressão qualquer que use parênteses. Seu aplicativo deverá analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex083.py)
+* **Desafio 84:** Lista composta e análise de dados - Crie um programa que leia nome e peso de várias pessoas, guardando tudo em uma lista. No final, mostre: A) Quantas pessoas foram cadastradas. B) Uma listagem com as pessoas mais pesadas. (< 100) C) Uma listagem com as pessoas mais leves. (> 70)
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex084.py)
+* **Desafio 85:** Listas com pares e ímpares - Crie um programa onde o usuário possa digitar sete valores numéricos e cadastre-os em uma lista única que mantenha separados os valores pares e ímpares. No final, mostre os valores pares e ímpares em ordem crescente.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex085.py)
+* **Desafio 86:** Matriz em Python - Crie um programa que crie uma matriz de dimensão 3x3 e preencha com valores lidos pelo teclado. No final, mostre a matriz na tela, com a formatação correta.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex086.py)
+* **Desafio 87:** Mais sobre Matriz em Python - Aprimore o desafio anterior, mostrando no final: A) A soma de todos os valores pares digitados. B) A soma dos valores da terceira coluna. C) O maior valor da segunda linha.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex087.py)
+* **Desafio 88:** Palpites para a Mega Sena - Faça um programa que ajude um jogador da MEGA SENA a criar palpites. O programa vai perguntar quantos jogos serão gerados e vai sortear 6 números entre 1 e 60 para cada jogo, cadastrando tudo em uma lista composta. Não pode repetir números em um mesmo jogo. Incluir um timer() para exibir o jogo no console.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex088.py)
+* **Desafio 89:** Boletim com listas compostas - Crie um programa que leia nome e duas notas de vários alunos e guarde tudo em uma lista composta. No final, mostre um boletim contendo a média de cada um e permita que o usuário possa mostrar as notas de cada aluno individualmente.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex089.py)
 
 
 
