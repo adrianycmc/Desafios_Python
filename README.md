@@ -7,7 +7,7 @@
 Bem-vindo(a) a este repositório! 🥏
 
 Aqui você encontrará um compilado de exercícios em Python 🐍, organizados em diferentes níveis de dificuldade. Conforme você avança pelos desafios, a complexidade aumenta, ajudando a aprimorar tanto sua lógica de programação quanto suas habilidades na linguagem.
-Minha meta é compartilhar 100 exercícios com suas respectivas soluções; até agora, já concluí 83. 🚀 
+Minha meta é compartilhar 100 exercícios com suas respectivas soluções; até agora, já concluí 89. 🚀 
 
 A ideia é que você tente resolver os exercícios sozinho(a), explorando sua criatividade e testando suas habilidades. Mas, se ficar travado(a), não se preocupe! Todas as soluções estão disponíveis para consulta. Além disso, incluí uma playlist com a resolução explicada desses códigos para você acompanhar e aprender ainda mais. 🎥
 
@@ -228,7 +228,7 @@ Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
 <br>
 
 #### 🚧 Repositório em construção.
-✅ 83 de 100 exercícios concluídos.
+✅ 89 de 100 exercícios concluídos.
 
 <br>
 
