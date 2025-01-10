@@ -7,7 +7,7 @@
 Bem-vindo(a) a este repositório! 🥏
 
 Aqui você encontrará um compilado de exercícios em Python 🐍, organizados em diferentes níveis de dificuldade. Conforme você avança pelos desafios, a complexidade aumenta, ajudando a aprimorar tanto sua lógica de programação quanto suas habilidades na linguagem.
-Minha meta é compartilhar 100 exercícios com suas respectivas soluções; até agora, já concluí 89. 🚀 
+Minha meta é compartilhar 100 exercícios com suas respectivas soluções; até agora, já concluí 95. 🚀 
 
 A ideia é que você tente resolver os exercícios sozinho(a), explorando sua criatividade e testando suas habilidades. Mas, se ficar travado(a), não se preocupe! Todas as soluções estão disponíveis para consulta. Além disso, incluí uma playlist com a resolução explicada desses códigos para você acompanhar e aprender ainda mais. 🎥
 
@@ -221,14 +221,25 @@ Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex088.py)
 * **Desafio 89:** Boletim com listas compostas - Crie um programa que leia nome e duas notas de vários alunos e guarde tudo em uma lista composta. No final, mostre um boletim contendo a média de cada um e permita que o usuário possa mostrar as notas de cada aluno individualmente.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex089.py)
-
+* **Desafio 90:** Dicionário em Python - Faça um programa que leia nome e média de um aluno, guardando também a situação em um dicionário. No final, mostre o conteúdo da estrutura na tela.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex090.py)
+* **Desafio 91:** Jogo de Dados em Python - Crie um programa onde 4 jogadores joguem um dado e tenham resultados aleatórios. Guarde esses resultados em um dicionário. No final, coloque esse dicionário em ordem, sabendo que o vencedor tirou o maior número no dado. Usar o randint para gerar números aleatórios e guardar no dicionário, o itemgetter para ordenar o dicionário e o sleep para dar um delay na impressão dos resultados.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex091.py)
+* **Desafio 92:** Cadastro de trabalhador em Python - Crie um programa que leia nome, ano de nascimento e carteira de trabalho e cadastre-os (com idade) em um dicionário se por acaso a CTPS for diferente de zero, o dicionário receberá também o ano de contratação e o salário. Calcule e acrescente, além da idade, com quantos anos a pessoa vai se aposentar.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex092.py)
+* **Desafio 93:** Cadastro de Jogador de Futebol - Crie um programa que gerencie o aproveitamento de um jogador de futebol. O programa vai ler o nome do jogador e quantas partidas ele jogou e depois vai ler a quantidade de gols feitos em cada partida. No final, tudo isso será guardado em um dicionário, incluindo o total de gols feitos durante o campeonato.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex093.py)
+* **Desafio 94:** Unindo dicionários e listas - Crie um programa que leia nome, sexo e idade de várias pessoas, guardando os dados de cada pessoa em um dicionário e todos os dicionários em uma lista. No final, mostre: A) Quantas pessoas foram cadastradas; B) A média de idade do grupo; C) Uma lista com todos os valores; D) Uma lista com todas as pessoas com idade acima da média. 
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex094.py)
+* **Desafio 95:** Aprimorando os Dicionários: Aprimore o desafio 093 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex095.py)
 
 
 <br>
 <br>
 
 #### 🚧 Repositório em construção.
-✅ 89 de 100 exercícios concluídos.
+✅ 95 de 100 exercícios concluídos.
 
 <br>
 
