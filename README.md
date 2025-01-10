@@ -221,6 +221,9 @@ Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex088.py)
 * **Desafio 89:** Boletim com listas compostas - Crie um programa que leia nome e duas notas de vários alunos e guarde tudo em uma lista composta. No final, mostre um boletim contendo a média de cada um e permita que o usuário possa mostrar as notas de cada aluno individualmente.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex089.py)
+ 
+### Dicionários:
+
 * **Desafio 90:** Dicionário em Python - Faça um programa que leia nome e média de um aluno, guardando também a situação em um dicionário. No final, mostre o conteúdo da estrutura na tela.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex090.py)
 * **Desafio 91:** Jogo de Dados em Python - Crie um programa onde 4 jogadores joguem um dado e tenham resultados aleatórios. Guarde esses resultados em um dicionário. No final, coloque esse dicionário em ordem, sabendo que o vencedor tirou o maior número no dado. Usar o randint para gerar números aleatórios e guardar no dicionário, o itemgetter para ordenar o dicionário e o sleep para dar um delay na impressão dos resultados.
