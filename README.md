@@ -7,7 +7,7 @@
 Bem-vindo(a) a este repositório! 🥏
 
 Aqui você encontrará um compilado de exercícios em Python 🐍, organizados em diferentes níveis de dificuldade. Conforme você avança pelos desafios, a complexidade aumenta, ajudando a aprimorar tanto sua lógica de programação quanto suas habilidades na linguagem.
-Minha meta é compartilhar 100 exercícios com suas respectivas soluções; até agora, já concluí 95. 🚀 
+Minha meta é compartilhar 100 exercícios com suas respectivas soluções; até agora, já concluí 100. 🚀 
 
 A ideia é que você tente resolver os exercícios sozinho(a), explorando sua criatividade e testando suas habilidades. Mas, se ficar travado(a), não se preocupe! Todas as soluções estão disponíveis para consulta. Além disso, incluí uma playlist com a resolução explicada desses códigos para você acompanhar e aprender ainda mais. 🎥
 
@@ -234,15 +234,28 @@ Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex093.py)
 * **Desafio 94:** Unindo dicionários e listas - Crie um programa que leia nome, sexo e idade de várias pessoas, guardando os dados de cada pessoa em um dicionário e todos os dicionários em uma lista. No final, mostre: A) Quantas pessoas foram cadastradas; B) A média de idade do grupo; C) Uma lista com todos os valores; D) Uma lista com todas as pessoas com idade acima da média. 
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex094.py)
-* **Desafio 95:** Aprimorando os Dicionários: Aprimore o desafio 093 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.
+* **Desafio 95:** Aprimorando os Dicionários - Aprimore o desafio 093 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex095.py)
+ 
+### Funções:
+
+* **Desafio 96:** Função que calcula área - Faça um programa que tenha uma função chamada área(), que receba as dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex096.py)
+* **Desafio 97:** Um print especial - Faça um programa que tenha uma função chamada escreva(), que receba um texto qualquer como parâmetro e mostre uma mensagem com tamanho adaptável.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex097.py)
+* **Desafio 98:** Função de Contador - Faça um programa que tenha uma função chamada contador(), que receba três parâmetros: início, fim e passo e realize a contagem. Seu programa tem que realizar três contagens através da função criada: A) De 1 até 10, de 1 em 1; B) De 10 até 0, de 2 em 2; C) Uma contagem personalizada - o usuário vai digitar o inicio, fim e passo. 
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex098.py)
+* **Desafio 99:** Função que descobre o maior - Faça um programa que tenha uma função chamada maior(), que receba vários parâmetros com valores inteiros. Seu programa tem que analisar todos os valores e dizer qual deles é o maior.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex099.py)
+* **Desafio 100:** Funções para sortear e somar - Faça um programa que tenha uma lista chamada números e duas funções chamadas sorteia() e somaPar(). A primeira função vai sortear 5 números e vai colocá-los dentro da lista e a segunda função vai mostrar a soma entre todos os valores PARES sorteados pela função anterior.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex100.py)
 
 
 <br>
 <br>
 
 #### 🚧 Repositório em construção.
-✅ 95 de 100 exercícios concluídos.
+✅ 100 de 100 exercícios concluídos.
 
 <br>
 
