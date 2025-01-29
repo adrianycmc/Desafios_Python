@@ -250,7 +250,11 @@ Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex099.py)
 * **Desafio 100:** Funções para sortear e somar - Faça um programa que tenha uma lista chamada números e duas funções chamadas sorteia() e somaPar(). A primeira função vai sortear 5 números e vai colocá-los dentro da lista e a segunda função vai mostrar a soma entre todos os valores PARES sorteados pela função anterior.
 
+<br>
+
 ## 🤯 Exercícios Extras:
+
+<br>
 
 ### Funções:
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex100.py) 
