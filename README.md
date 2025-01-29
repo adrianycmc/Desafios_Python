@@ -7,7 +7,8 @@
 Bem-vindo(a) a este repositório! 🥏
 
 Aqui você encontrará um compilado de exercícios em Python 🐍, organizados em diferentes níveis de dificuldade. Conforme você avança pelos desafios, a complexidade aumenta, ajudando a aprimorar tanto sua lógica de programação quanto suas habilidades na linguagem.
-Minha meta é compartilhar 100 exercícios com suas respectivas soluções; até agora, já concluí 100. 🚀 
+Minha meta é compartilhar 100 exercícios com suas respectivas soluções; até agora, já concluí os 100 e mais 6 exercícios extras. 🚀 
+
 
 A ideia é que você tente resolver os exercícios sozinho(a), explorando sua criatividade e testando suas habilidades. Mas, se ficar travado(a), não se preocupe! Todas as soluções estão disponíveis para consulta. Além disso, incluí uma playlist com a resolução explicada desses códigos para você acompanhar e aprender ainda mais. 🎥
 
@@ -248,14 +249,31 @@ Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
 * **Desafio 99:** Função que descobre o maior - Faça um programa que tenha uma função chamada maior(), que receba vários parâmetros com valores inteiros. Seu programa tem que analisar todos os valores e dizer qual deles é o maior.
   - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex099.py)
 * **Desafio 100:** Funções para sortear e somar - Faça um programa que tenha uma lista chamada números e duas funções chamadas sorteia() e somaPar(). A primeira função vai sortear 5 números e vai colocá-los dentro da lista e a segunda função vai mostrar a soma entre todos os valores PARES sorteados pela função anterior.
-  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex100.py)
+
+## 🤯 Exercícios Extras:
+
+### Funções:
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex100.py) 
+* **Desafio 101:** Funções para votação - Crie um programa que tenha uma função chamada voto() que vai receber como parâmetro o ano de nascimento de uma pessoa, retornando um valor literal indicando se uma pessoa tem voto NEGADO, OPCIONAL ou OBRIGATÓRIO nas eleições. Para resolver esse exercício, pesquise sobre a função date da biblioteca datetime.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex101.py)
+* **Desafio 102:** Função para fatorial - Crie um programa que tenha uma função fatorial() que receba dois parâmetros: o primeiro que indique o número a calcular e o outro chamado show, que será um valor lógico (opcional) indicando se será mostrado ou não na tela o processo de cálculo do fatorial.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex102.py)
+* **Desafio 103:** Ficha do Jogador - Faça um programa que tenha uma função chamada ficha(), que receba dois parâmetros opcionais: o nome de um jogador e quantos gols ele marcou. O programa deverá ser capaz de mostrar a ficha do jogador, mesmo que algum dado não tenha sido informado corretamente.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex103.py)
+* **Desafio 104:** Validando entrega de dados em Python - Crie um programa que tenha a função leiaInt(), que vai funcionar de forma semelhante à função input() do Python, só que fazendo a validação para aceitar apenas um valor numérico. 
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex104.py)
+* **Desafio 105:** Analisando e gerando dicionários - Faça um programa que tenha uma função notas() que pode receber várias notas de alunos e vai retornar um dicionário com as seguintes informações: - Quantidade de notas - A maior nota - A menor nota - A média da turma - A situação (opcional) adicional, que pode ser: RUIM, RAZOÁVEL ou BOA.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex105.py)
+* **Desafio 106:** Interactive Helping System in Python - Faça um mini-sistema que utilize o Interactive Help do Python. O usuário vai digitar o comando e o manual vai aparecer. Quando o usuário digitar a palavra 'FIM', o programa se encerrará. Importante: use cores.
+  - [Solução](https://github.com/adrianycmc/Desafios_Python/blob/main/Exercicios/ex106.py)
+
 
 
 <br>
 <br>
 
 #### 🚧 Repositório em construção.
-✅ 100 de 100 exercícios concluídos.
+✅ 106 exercícios concluídos.
 
 <br>
 
